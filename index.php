@@ -19,7 +19,7 @@
 </head>
 <body>
     <h1>Bounjour tout le monde</h1>
-    p>Ceci est la page d'accueil.</p> 
+    <p>Ceci est la page d'accueil.</p> 
     <p>Aujourd'hui, nous sommes le <?php echo date("d/m/Y"); ?>.</p> 
 </body>
 </html>
