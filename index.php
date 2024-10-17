@@ -19,6 +19,6 @@
 </head>
 <body>
     <h1>Bounjour tout le monde</h1>
-    <p>ceci est un paragraphe</p>
+    <p>Aujourd'hui, nous sommes le <?php echo date("d/m/Y"); ?>.</p> 
 </body>
 </html>
